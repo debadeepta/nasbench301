@@ -140,3 +140,6 @@ job.sh
 # Logs
 experiments/*
 logs/
+
+# 
+nasbench301/nb_models_0.9
